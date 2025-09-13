@@ -8,7 +8,7 @@ The trained model is exported and used in the main application repository [`Ches
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 We used the publicly available **Chest X-Ray Images (Pneumonia)** dataset published on [Mendeley Data](https://data.mendeley.com/datasets/rscbjbr9sj/2).
 
@@ -18,7 +18,7 @@ We used the publicly available **Chest X-Ray Images (Pneumonia)** dataset publis
 
 ---
 
-## 🧠 Model Summary
+## Model Summary
 
 - **Input:** Chest X-ray images (resized before training)
 - **Architecture:** Convolutional Neural Network (CNN)
@@ -26,7 +26,7 @@ We used the publicly available **Chest X-Ray Images (Pneumonia)** dataset publis
 
 ---
 
-## 📈 Results
+## Results
 
 ### Confusion Matrix
 
