@@ -49,10 +49,4 @@ We used the publicly available **Chest X-Ray Images (Pneumonia)** dataset publis
 - This means the model is **sensitive** (catches most pneumonia cases) but **less specific** (some normal images are flagged as pneumonia).
 
 
----
-
-🔗 Related Repository
-
-This trained model is deployed in the main app here:
-➡ Chest_X-ray_Pneumonia_Image_Classification
 
